@@ -105,6 +105,7 @@ const Landing = () => {
           autoPlay
           muted
           loop
+          controls={false}
           className="w-full fixed max-[1024px]:scale-y-[4.5]  scale-y-150 max-[600px]:scale-y-[7] vid"
         ></video>
 
