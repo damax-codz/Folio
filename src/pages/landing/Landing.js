@@ -199,32 +199,32 @@ const Landing = () => {
                 </p>
               </span>
             </a>
-            <span className="text-gry text-[12rem] font-bold leading-[170px] max-[1024px]:text-[4rem] max-[1024px]:leading-[105px] max-[600px]:font-cormorant sing">
-              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[4rem] ">
+            <span className="text-gry text-[12rem] font-bold leading-[170px] max-[1024px]:text-[3rem] max-[1024px]:leading-[105px] max-[600px]:font-cormorant sing">
+              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[3rem] ">
                 D
               </span>
-              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[4rem] ">
+              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[3rem] ">
                 E
               </span>
-              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[4rem] ">
+              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[3rem] ">
                 V
               </span>
-              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[4rem] ">
+              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[3rem] ">
                 E
               </span>
-              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[4rem] ">
+              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[3rem] ">
                 L
               </span>
-              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[4rem] ">
+              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[3rem] ">
                 O
               </span>
-              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[4rem] ">
+              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[3rem] ">
                 P
               </span>
-              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[4rem] ">
+              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[3rem] ">
                 E
               </span>
-              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[4rem] ">
+              <span className="hover:text-gryy  duration-500 single max-[1024px]:text-[3rem] ">
                 R
               </span>
             </span>
@@ -233,7 +233,7 @@ const Landing = () => {
       </main>
 
       <div
-        className="px-[40px] max-[600px]:px-[15px] mt-[50px]  mb-[200px] flex justify-between  items-center max-[600px]:flex-col max-[1024px]:mt-[100px] about"
+        className="px-[40px] w-full max-[600px]:px-[15px] mt-[50px]  mb-[200px] flex justify-between  items-center max-[600px]:flex-col max-[1024px]:mt-[100px] about"
         id="about"
       >
         <p className="text-gry text-[5rem] mt-[200px] max-[1000px]:mt-0 font-black  relative w-2/4 leading-[80px] about max-[600px]:w-full max-[1024px]:text-[3.5rem]  max-[1024px]:leading-[50px] font-dm text-left font-dm ">
@@ -266,7 +266,7 @@ const Landing = () => {
           </p>
         </section>
 
-        <span className="text-gry text-[12rem] font-black font-cormorant text-center  max-[600px]:text-[8rem]  ">
+        <span className="text-gry text-[12rem] font-black font-cormorant text-center  max-[600px]:text-[6rem]  ">
           (S-003)
         </span>
 
@@ -491,7 +491,7 @@ const Landing = () => {
           </Grid>
         </Box>
 
-        <span className="text-gry mt-[200px] text-[12rem] font-black font-cormorant text-center  max-[600px]:text-[8rem]  ">
+        <span className="text-gry mt-[200px] text-[12rem] font-black font-cormorant text-center  max-[600px]:text-[6rem]  ">
           (S-002)
         </span>
 
@@ -714,7 +714,7 @@ const Landing = () => {
           </Grid>
         </Box>
 
-        <span className="text-gry mt-[200px] text-[12rem] font-black font-cormorant text-center  max-[600px]:text-[8rem]  ">
+        <span className="text-gry mt-[200px] text-[12rem] font-black font-cormorant text-center  max-[600px]:text-[6rem]  ">
           (S-001)
         </span>
 
