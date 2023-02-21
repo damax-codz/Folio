@@ -35,6 +35,10 @@ code {
     monospace;
 }
 
+video::webkit-media-controls{
+  display: none !important
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
