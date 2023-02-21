@@ -35,8 +35,9 @@ code {
     monospace;
 }
 
-video::webkit-media-controls{
-  display: none !important
+*::-webkit-media-controls-start-playbac-button{
+  display: none !important;
+  -webkit-appearance: none;
 }
 
 @tailwind base;
