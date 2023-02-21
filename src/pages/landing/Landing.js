@@ -46,7 +46,8 @@ const Landing = () => {
  
     document.body.style.overflowX = "hidden";
     video.current.playbackRate = 3;
-    video.play()
+    video.current.play()
+    video.current.controls=false
     let ctx = gsap.context(() => {
       if (window.innerWidth > 1000) {
         tl.fromTo(
@@ -103,7 +104,7 @@ const Landing = () => {
         <video
           src={vid}
           ref={video}
-          autoPlay={true}
+          autoPlay
           muted
           loop
           controls={false}
