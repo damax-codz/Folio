@@ -119,7 +119,7 @@ const Landing = () => {
               AVAILABLE FOR FREELANCE <br /> WORK FROM JAN 2023
             </p>
 
-            <a href="#" className="cta flex items-center">
+            <a href="#contact" className="cta flex items-center">
               <span className="text-gr font-grotesk text-xs">CONTACT</span>
               <svg width="13px" height="10px" viewBox="0 0 13 10">
                 <path d="M1,5 L11,5"></path>
