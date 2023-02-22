@@ -358,11 +358,11 @@ const Landing = () => {
                   </span>
                 </p>
 
-                <div className="overflow-hidden">
+                <a className="overflow-hidden"  href="https://www.loopstudio.site/" target="_blank">
                   <p className="flex w-[100%] justify-between p-[20px] title">
                     <span
                       className="text-gr font-cormorant font-black text-[2rem]"
-                      href="https://www.loopstudio.site/"
+                     
                       target="_blank"
                     >
                       Loopstudio
@@ -380,7 +380,7 @@ const Landing = () => {
                       &nbsp;Software Development Org&nbsp;
                     </span>
                   </p>
-                </div>
+                </a>
               </a>
             </Grid>
             <Grid xs={12} md={6} lg={4}>
