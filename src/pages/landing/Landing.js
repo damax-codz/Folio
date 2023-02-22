@@ -350,7 +350,7 @@ const Landing = () => {
               </a>
             </Grid>
             <Grid xs={12} md={6} lg={4}>
-              <a className="bg-gry w-full h-[400px] overflow-hidden flex flex-col justify-between project rounded-[3px]">
+              <a  href="https://www.loopstudio.site/" target="_blank" className="bg-gry w-full h-[400px] overflow-hidden flex flex-col justify-between project rounded-[3px]">
                 <p className="flex w-[100%] justify-between p-[20px]">
                   <span className="text-gr font-cormorant font-black text-[1rem]"></span>
                   <span className="text-gr font-cormorant font-black text-[1rem]">
@@ -358,7 +358,7 @@ const Landing = () => {
                   </span>
                 </p>
 
-                <a className="overflow-hidden"  href="https://www.loopstudio.site/" target="_blank">
+                <div className="overflow-hidden">
                   <p className="flex w-[100%] justify-between p-[20px] title">
                     <span
                       className="text-gr font-cormorant font-black text-[2rem]"
@@ -380,7 +380,7 @@ const Landing = () => {
                       &nbsp;Software Development Org&nbsp;
                     </span>
                   </p>
-                </a>
+                </div>
               </a>
             </Grid>
             <Grid xs={12} md={6} lg={4}>
